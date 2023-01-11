@@ -6,7 +6,7 @@ This can simply solve by edit the 8th line of the Source code
 
 arduino = serial.Serial(port='COM5', baudrate=9600, timeout=.5)
 
-Simply Open Arduino IDE or any Serial Monitor program to check which port arduino is connected to 
+Simply open Arduino IDE or any Serial Monitor program to check which port arduino is connected to 
 
 If connection is established 
 
